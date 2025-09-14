@@ -1,2 +1,3 @@
-# orivia-specs
+# Orivia Specs
+
 CocoaPods podspecs repository for Orivia

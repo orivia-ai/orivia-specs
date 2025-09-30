@@ -1,0 +1,27 @@
+{
+  "name": "OriviaUnityBridge",
+  "version": "1.5.0",
+  "summary": "OriviaUnityBridge binary distribution",
+  "homepage": "https://orivia.ai",
+  "license": {
+    "type": "Commercial",
+    "text": "Copyright 2025 Orivia Limited.\nAll rights reserved.\n\nThe Orivia SDK is available under a commercial license (https://orivia.ai/#terms).\nContact serhii@orivia.ai for details.\n"
+  },
+  "authors": {
+    "Orivia Limited": "serhii@orivia.ai"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "http": "https://github.com/orivia-ai/orivia-specs/releases/download/1.5.0/OriviaUnityBridge.xcframework.zip"
+  },
+  "vendored_frameworks": "OriviaUnityBridge.xcframework",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "OriviaMonetization": [
+      "1.5.0"
+    ]
+  },
+  "swift_version": "5.0"
+}

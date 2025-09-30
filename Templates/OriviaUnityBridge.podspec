@@ -17,7 +17,7 @@ Contact serhii@orivia.ai for details.
   s.platform     = :ios, '12.0'
 
   s.source = {
-    :http => ''
+    :http => 'https://github.com/orivia-ai/orivia-specs/releases/download/$VERSION/OriviaUnityBridge.xcframework.zip'
   }
 
   s.vendored_frameworks = 'OriviaUnityBridge.xcframework'

@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = {
     :type => 'Commercial',
     :text => <<-LICENSE
-Copyright 2025 Orivia Limited.
+Copyright 2026 Orivia Limited.
 All rights reserved.
 
 The Orivia SDK is available under a commercial license (https://orivia.ai/#terms).
